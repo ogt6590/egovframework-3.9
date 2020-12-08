@@ -6,7 +6,6 @@
 <tiles-definitions>
 	<definition name="layouts-tiles" template="/WEB-INF/jsp/egovframework/example/cmmn/default-layouts.jsp">
 	  	<put-attribute name="tiles_header"  value="/WEB-INF/jsp/egovframework/example/cmmn/default-header.jsp" />
-	  	<put-attribute name="tiles_left"    value="/WEB-INF/jsp/egovframework/example/cmmn/default-left.jsp" />
 	  	<put-attribute name="body"   value="" />
 	  	<put-attribute name="tiles_foot"   value="/WEB-INF/jsp/egovframework/example/cmmn/default-foot.jsp" />
 	</definition>

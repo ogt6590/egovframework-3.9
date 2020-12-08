@@ -9,7 +9,7 @@ public class MainController {
 	@RequestMapping(value = "main.do")
 	public String initMain() throws Exception {
 		
-		return "main/main.tiles";
+		return "main/login.tiles";
 	}
 	
 }
